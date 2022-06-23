@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Learn </string>
+    <string name="inc_button">Increase</string>
+    <string name="count_msg">Number of Counts</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="login_screen">WELCOME LOGIN </string>
+    <string name="enter_username">Username</string>
+    <string name="welcome_login">Welcome Login</string>
+    <string name="button">Login</string>
+    <string name="password">Password</string>
+    <string name="passwordlabel">Password</string>
+    <string name="person">Person</string>
+    <string name="hotspot">Hotspot</string>
+    <string name="storage">WebView</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="seekbar_range">SeekBar Range</string>
+    <string name="first_screen">Screen 1</string>
+    <string name="grid_view_page">Grid view page</string>
+    <string name="codematrix">CodeMatrix</string>
+    <string name="software_development">developer@codematrix.org</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="console">Console</string>
+    <string name="loctaion">Loctaion</string>
+    <string name="account">Account</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="home_screen">Home Screen</string>
+    <string name="checkbox1">CheckBox1</string>
+    <string name="checkbox2">CheckBox2</string>
+    <string name="progress_bar">Progress Bar</string>
+    <string name="switch_1">Switch 1</string>
+    <string name="selected_date">Selected Date (Calender):</string>
+    <string name="selected_date_spinner">Selected Date (Spinner):</string>
+    <string name="radio_button_3">Radio Button 3</string>
+    <string name="tabbar_screen">TabBar Screen</string>
+    <string name="activity_maps">MapsActivity</string>
+    <string name="google_map">Google Map</string>
+    <string name="googlemap">GoogleMap</string>
+    <string name="polyline_map">Polyline Map</string>
+    <string name="polygon_map">polygon map</string>
+</resources>

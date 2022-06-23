@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+            <item android:id="@+id/nav3"
+                android:icon="@drawable/pc_foreground"
+                android:title="@string/console"/>
+            <item android:id="@+id/nav4"
+                android:title="@string/googlemap"
+                android:icon="@drawable/location_foreground"
+                />
+            <item android:id="@+id/nav5"
+                android:title="@string/polyline_map"
+                android:icon="@drawable/location_foreground"
+            />
+    <item android:id="@+id/nav6"
+        android:title="@string/polygon_map"
+        android:icon="@drawable/location_foreground"
+        />
+    <item android:title="@string/account">
+        <menu>
+            <item android:id="@+id/nav1"
+                android:icon="@drawable/person"
+                android:title="@string/profile"/>
+            <item android:id="@+id/nav2"
+                android:icon="@drawable/logout_foreground"
+                android:title="@string/logout"/>
+        </menu>
+    </item>
+
+
+
+</menu>
